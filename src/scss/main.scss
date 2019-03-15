@@ -1,0 +1,14 @@
+h1{
+    color: blue
+}
+
+$primary: red ;
+
+span {
+    color: $primary
+}
+
+.wrapper{
+    max-width: 1199px;
+    margin: auto
+}
